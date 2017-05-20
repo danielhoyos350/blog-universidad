@@ -1,2 +1,15 @@
-# blog-universidad
-Es un proyecto dedicado al crecimiento de la comunidad universitaria 
+# Blog Universidad
+
+(Descripción del proyecto)
+
+(Instalación)
+- Requisistos
+- Versión
+- Encargados del proyecto
+
+(Usage - uso)
+- plugins
+- framework
+
+(Documentación)
+
